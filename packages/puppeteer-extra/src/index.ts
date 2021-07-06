@@ -534,7 +534,7 @@ function requireVanillaPuppeteer(): [VanillaPuppeteer?, Error?] {
     // noop
   }
   try {
-    return [require('puppeteer'), undefined]
+    return [require('puppeteer-extended-frame-methods'), undefined]
   } catch (err) {
     return [undefined, err]
   }
