@@ -33,4 +33,5 @@ packages/internal-testing-*
 testing/
 
 *.tgz*
+.idea
 

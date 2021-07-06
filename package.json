@@ -1,7 +1,7 @@
 {
   "private": true,
   "description": "Modular framework to teach Puppeteer new tricks.",
-  "repository": "berstend/puppeteer-extra",
+  "repository": "vladopaets/puppeteer-extra",
   "author": "berstend",
   "license": "MIT",
   "main": "packages/puppeteer-extra/index.js",
