@@ -1,6 +1,6 @@
 {
   "name": "puppeteer-extra-extended-frame-methods",
-  "version": "3.1.21",
+  "version": "3.1.22",
   "description": "Teach puppeteer new tricks through plugins.",
   "repository": "vladopaets/puppeteer-extra",
   "author": "berstend",
