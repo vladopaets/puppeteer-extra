@@ -1,6 +1,6 @@
 {
   "name": "puppeteer-extra-extended-frame-methods",
-  "version": "3.1.22",
+  "version": "3.1.23",
   "description": "Teach puppeteer new tricks through plugins.",
   "repository": "vladopaets/puppeteer-extra",
   "author": "berstend",
@@ -44,7 +44,7 @@
     "documentation-markdown-themes": "^12.1.5",
     "npm-run-all": "^4.1.5",
     "puppeteer": "^2.0.0",
-    "puppeteer-extended-frame-methods": "^10.2.4",
+    "puppeteer-extended-frame-methods": "^10.2.5",
     "puppeteer-extra-plugin": "^3.1.9",
     "puppeteer-extra-plugin-anonymize-ua": "^2.2.17",
     "puppeteer-firefox": "^0.5.0",
